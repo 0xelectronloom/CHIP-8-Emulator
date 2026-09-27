@@ -1,5 +1,5 @@
 # 🕹️ CHIP-8 Emulator
-A basic CHIP-8 elulator written in c++ using ralib and raygui.
+A basic CHIP-8 elulator written in c++ using raylib and raygui.
 
 Current version: v0.1.0-beta.1 🚧
 
