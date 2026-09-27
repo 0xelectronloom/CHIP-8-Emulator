@@ -5,8 +5,6 @@ Current version: v0.1.0-beta.1 🚧
 
 ## 📸 Screenshots
 
-Add screenshots of the emulator here.
-
 ![CHIP-8 Emulator](screenshots/screenshot.png)
 
 ## 📥 Download
