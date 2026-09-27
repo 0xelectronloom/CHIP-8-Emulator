@@ -24,6 +24,6 @@ the `assets` folder contains the fonts and icons required by the app
 
 The repository includes several CHIP-8 game ROMs in:
 
-assets/roms/
+`assets/roms/`
 
 These ROMs are included for testing and demonstrating the emulator.
