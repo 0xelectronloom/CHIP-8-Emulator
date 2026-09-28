@@ -18,7 +18,7 @@ Open the visual studio solution and build the project.
 
 the `assets` folder contains the fonts and icons required by the app
 
-📂 Included Games
+## 📂 Included Games
 
 The repository includes several CHIP-8 game ROMs in:
 
